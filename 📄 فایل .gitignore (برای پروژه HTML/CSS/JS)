@@ -1,0 +1,8 @@
+# Ignore node modules and build artifacts
+node_modules/
+dist/
+.cache/
+*.log
+*.env*
+.DS_Store
+Thumbs.db
